@@ -1,0 +1,29 @@
+{
+  "student": [
+    {
+      "name": "vraj",
+      "course": "back-end",
+      "id": 1
+    },
+    {
+      "name": "piyush",
+      "course": "back-end",
+      "id": 2
+    },
+    {
+      "name": "akshar",
+      "course": "front-end",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "name": "karan",
+      "course": "front-end"
+    },
+    {
+      "name": "ashavraj",
+      "course": "graphic",
+      "id": 5
+    }
+  ]
+}
