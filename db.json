@@ -1,29 +1,18 @@
 {
-  "student": [
+  "posts": [
     {
       "name": "vraj",
-      "course": "back-end",
+      "course": "gim",
+      "gender": "male",
+      "mobail": "95642055874",
       "id": 1
     },
     {
-      "name": "piyush",
-      "course": "back-end",
+      "name": "vraj",
+      "course": "gl",
+      "gender": "xcv",
+      "mobail": "5241589658",
       "id": 2
-    },
-    {
-      "name": "akshar",
-      "course": "front-end",
-      "id": 3
-    },
-    {
-      "id": 4,
-      "name": "karan",
-      "course": "front-end"
-    },
-    {
-      "name": "ashavraj",
-      "course": "graphic",
-      "id": 5
     }
   ]
 }
